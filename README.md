@@ -1,5 +1,7 @@
 # Google Cloud Model Armor Client Library Sample
 
+本リポジトリは『[Google Cloud Model Armorによるプロンプトインジェクション対策 | sreake.com | 株式会社スリーシェイク](https://sreake.com/blog/prompt-injection-protection-with-google-cloud-model-armor/)』のサンプルコードです。
+
 ## 利用方法
 
 準備
